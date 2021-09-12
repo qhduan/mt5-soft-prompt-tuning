@@ -1,6 +1,10 @@
 # mt5-soft-prompt-tuning
 
-[Colab](https://colab.research.google.com/drive/1PRx6tABbx2BwI38pSfOlKuXruAdhfTLj?usp=sharing)
+下面链接同repo里面的ipynb
+
+[Colab mt5-base](https://colab.research.google.com/drive/1PRx6tABbx2BwI38pSfOlKuXruAdhfTLj?usp=sharing)
+
+[Colab mt5-large](https://colab.research.google.com/drive/15lWNnfs4FdC379IJh-SVKG_sFl55GpaO?usp=sharing)
 
 Code copy and change from: [Repo: soft-prompt-tuning](https://github.com/kipgparker/soft-prompt-tuning)
 
